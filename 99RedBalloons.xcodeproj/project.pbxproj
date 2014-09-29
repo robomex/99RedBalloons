@@ -92,7 +92,7 @@
 				DEA5565619D9012800076FBB /* AppDelegate.swift */,
 				DEA5565819D9012800076FBB /* ViewController.swift */,
 				DEA5565A19D9012800076FBB /* Main.storyboard */,
-				DEA5568119D904D300076FBB /* Models */,
+				DEA5568119D904D300076FBB /* Model */,
 				DEA5565D19D9012800076FBB /* Images.xcassets */,
 				DEA5565F19D9012800076FBB /* LaunchScreen.xib */,
 				DEA5565419D9012800076FBB /* Supporting Files */,
@@ -138,12 +138,12 @@
 			path = 99RedBalloonsAssets;
 			sourceTree = "<group>";
 		};
-		DEA5568119D904D300076FBB /* Models */ = {
+		DEA5568119D904D300076FBB /* Model */ = {
 			isa = PBXGroup;
 			children = (
 				DEA5568219D9050200076FBB /* Balloon.swift */,
 			);
-			name = Models;
+			name = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -445,6 +445,7 @@
 				DEA5567219D9012800076FBB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DEA5567319D9012800076FBB /* Build configuration list for PBXNativeTarget "99RedBalloonsTests" */ = {
 			isa = XCConfigurationList;
@@ -453,6 +454,7 @@
 				DEA5567519D9012800076FBB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
